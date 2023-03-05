@@ -1741,7 +1741,7 @@ int main ()
     scanf("%d",&d);
 
     //Authentication Check
-    if((strcmp(ch,"rushi")==0 ||strcmp(ch,"ishaan")==0 ||strcmp(ch,"dale")==0 ||strcmp(ch,"dhirendra")==0  ||strcmp(ch,"finn")==0) && d==51234 )
+    if((strcmp(ch,"rushi")==0 ||strcmp(ch,"ishaan")==0 ||strcmp(ch,"dale")==0 ||strcmp(ch,"dhirendra")==0  ||strcmp(ch,"finn")==0 ||strcmp(ch,"user")==0) && d==51234 )
     {
         //Authentication Successful
         printf("Welcome to the application\n\n");
